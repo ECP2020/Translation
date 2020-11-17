@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Bubble_3</string>
+    <string name="btn">Button</string>
+    <string name="message">This is a Button.</string>
+</resources>
